@@ -3,8 +3,7 @@ Currently working with Founder Belajar IT Academy,dll
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/Android-Studio?&logo=androidstudio" />
-    <img src="https://img.shields.io/badge/Visual-Code?&logo=visuakcode" />
+    <img src="https://img.shields.io/badge/Android-Studio?&logo=androidstudio" />/>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
@@ -25,7 +24,7 @@ Currently working with Founder Belajar IT Academy,dll
 
 ### Let's connect!
 <p>
-    <a href="https://instagram.com/@belajaritacademy" target="blank"><img src="https://img.shields.io/badge/belajaritacademy-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/@belajaritacademy" target="blank"><img src="https://img.shields.io/badge/belajaritacademy-30302f?style=flat&logo=instagram" </a>
 /a>
 </p>
 
