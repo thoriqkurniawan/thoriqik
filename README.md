@@ -1,6 +1,10 @@
 # Hi there 👋 , I'm Thoriq!
 Currently working with Founder Belajar IT Academy,dll
 
+<p>
+   <img src="https://avatars.githubusercontent.com/u/52267345?s=96&amp;v=4" alt="@thoriqkurniawan" size="100" height="100" width="100" data-view-component="true" class="avatar circle mr-3">
+</p>   
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Android-Studio?&logo=androidstudio" />
