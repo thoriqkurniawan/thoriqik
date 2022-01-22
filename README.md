@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Thoriq!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Currently working with Founder Belajar IT Academy,dll
 
 ### Tools:
 <p>
