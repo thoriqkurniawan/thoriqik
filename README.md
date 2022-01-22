@@ -30,18 +30,18 @@ Currently working with Founder Belajar IT Academy,dll
 ### Let's connect!
 <p>
     <a href="https://linkedin.thoriqilhamk.com" target="blank"><img src="https://img.shields.io/badge/thoriq-ilham-k-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://instagram.com/@belajaritacademy" target="blank"><img src="https://img.shields.io/badge/Belajaritacademy-30302f?style=flat&logo=medium" /></a>
+    <a href="https://instagram.com/@belajaritacademy" target="blank"><img src="https://img.shields.io/badge/belajaritacademy-30302f?style=flat&logo=instagram" /></a>
 /a>
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thoriqkurniawan/thoriqkurniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Belajar IT Academy,dll
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Belajar IT Academy,dll
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
