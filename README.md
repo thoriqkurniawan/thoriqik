@@ -33,7 +33,7 @@ Currently working with Founder Belajar IT Academy,dll
 
 ### Let's connect!
 <p>
-    <a href="https://instagram.com/@belajaritacademy" target="blank"><img src="https://img.shields.io/badge/belajaritacademy-30302f?style=flat&logo=instagram" 
+    <a href="https://instagram.com/@belajaritacademy" target="blank"><img src="https://img.shields.io/badge/belajaritacademy-30302f?style=flat&logo=instagram"                   
 </p>
 
 <!--
